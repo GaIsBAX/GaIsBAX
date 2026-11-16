@@ -1,15 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B48A&width=600&lines=Hey+there!+I'm+GaIsBAX+%F0%9F%91%8B;Go+Backend+Developer;I+build+backend+%26+devtools;Open+to+work+%2B+freelance+%2B+collabs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B48A&width=600&lines=Hey+there!+I'm+GaIsBAX+%F0%9F%91%8B;Project+Administrator+%40+RTLabs;Go+developer+%26+open+source+author;I+build+tools+and+grow+interns)](https://git.io/typing-svg)
 
 ---
 
 ### About me
 
-Backend developer, mostly Go. I build tools that solve real problems — not just CRUD apps.
+I run internship projects at **RTLabs**: organizing teams of interns, setting up processes, keeping delivery on track and helping beginners grow into real engineers.
 
-Currently open to:
-- **Full-time** backend / Go role
-- **Freelance** projects (backend, APIs, DevOps tooling)
-- **Contributors** for [Webhix](https://github.com/GaIsBAX/Webhix) — open source webhook inspector
+Technical background in Go and backend. I build tools that solve real problems — not just CRUD apps.
+
+What I do:
+- **Project administration** — coordinating intern teams, planning, mentoring, delivery
+- **Backend / Go** — APIs, devtools, infrastructure
+- **Open source** — author of [Webhix](https://github.com/GaIsBAX/Webhix), contributors welcome
 
 ---
 
@@ -30,7 +32,7 @@ Currently open to:
 
 ---
 
-### 🚀 Main project
+### 🚀 Side project
 
 **[Webhix](https://github.com/GaIsBAX/Webhix)** — self-hosted webhook inspector  
 Single Go binary · SQLite · SSE live UI · request replay · CLI forwarding · Docker  
@@ -48,7 +50,7 @@ Single Go binary · SQLite · SSE live UI · request replay · CLI forwarding ·
 
 ### 📬 Contact
 
-Got a project, job offer, or want to contribute to Webhix?
+Questions about internship projects, collaboration, or contributing to Webhix?
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/gaisbax)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gais.bax@gmail.com)
