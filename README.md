@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B48A&width=600&lines=Hey+there!+I'm+GaIsBAX+%F0%9F%91%8B;Project+Administrator+%40+RTLabs;Go+developer+%26+open+source+author;I+build+tools+and+grow+interns)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B48A&width=600&lines=Hey+there!+I'm+GaIsBAX+%F0%9F%91%8B;Project+Administrator+%26+Go+developer;I+build+tools+and+grow+interns;Open+source+author)](https://git.io/typing-svg)
 
 ---
 
 ### About me
 
-I run internship projects at **RTLabs**: organizing teams of interns, setting up processes, keeping delivery on track and helping beginners grow into real engineers.
+I run internship projects: organizing teams of interns, setting up processes, keeping delivery on track and helping beginners grow into real engineers.
 
 Technical background in Go and backend. I build tools that solve real problems — not just CRUD apps.
 
